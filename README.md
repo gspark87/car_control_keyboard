@@ -1,6 +1,6 @@
 # car_control_keyboard
 
-This package is for RC car keyboard control.
+This package is for RC car keyboard control.  
 The control code for the target RC car is [here][control_code].
 
 [control_code]: https://github.com/gspark87/car_control
